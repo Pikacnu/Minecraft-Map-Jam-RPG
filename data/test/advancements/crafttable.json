@@ -1,0 +1,19 @@
+{
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:placed_block",
+			"conditions": {
+				"block": "minecraft:dropper",
+				"item": {
+					"items": [
+						"minecraft:dropper"
+					],
+					"nbt": "{CustomCraftTable:1b}"
+				}
+			}
+		}
+	},
+	"rewards": {
+		"function": "test:crafttable/place"
+	}
+}

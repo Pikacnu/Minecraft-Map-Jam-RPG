@@ -1,0 +1,1 @@
+give @s dropper{CustomCraftTable: 1b, display: {Name: '{"text":"自訂義工作臺","color": "gold","italic": false,"bold": true}'}}

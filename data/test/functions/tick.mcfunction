@@ -8,5 +8,7 @@ execute as @a if score @s mana >= @s mana-max run scoreboard players operation @
 
 execute as @a[tag=!RPG-Set] run function test:playerset
 
+execute as @e[type=area_effect_cloud,tag=CustomCraftTable] at @s unless block ~ ~ ~ dropper[facing=down] run function test:crafttable/break
+
 execute as @a[predicate=test:lightning] at @s run function test:lightning/1
 scoreboard players set @a right_click 0
