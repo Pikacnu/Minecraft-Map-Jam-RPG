@@ -5,3 +5,5 @@ execute as @s at @s anchored eyes positioned ^ ^ ^.1 run function test:lightning
 
 tag @s remove Attacker
 tag @e[tag=Attacked] remove Attacked
+
+scoreboard players operation @s mana -= lightning mana

@@ -1,15 +1,5 @@
 [
 	{
-		"condition": "minecraft:entity_scores",
-		"entity": "this",
-		"scores": {
-			"right_click": {
-				"min": 1,
-				"max": 100
-			}
-		}
-	},
-	{
 		"condition": "minecraft:entity_properties",
 		"entity": "this",
 		"predicate": {
@@ -22,6 +12,28 @@
 					"count": 1,
 					"nbt": "{lightning:1b}"
 				}
+			}
+		}
+	},
+	{
+		"condition": "minecraft:entity_scores",
+		"entity": "this",
+		"scores": {
+			"right_click": {
+				"min": 1,
+				"max": 100
+			},
+			"mana": {
+				"min": {
+					"type": "minecraft:score",
+					"target": {
+						"type": "minecraft:fixed",
+						"name": "#lightning"
+					},
+					"score": "mana",
+					"scale": 1
+				},
+				"max": 2147483647
 			}
 		}
 	}

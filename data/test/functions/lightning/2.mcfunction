@@ -5,5 +5,5 @@ execute positioned ~ ~ ~ facing ^ ^ ^ if predicate test:25 run function test:lig
 
 execute positioned ^ ^ ^.5 if score #raycast temp matches 1.. run function test:lightning/2
 
-execute at @s as @e[tag=!Attacker,tag=!Attacked,distance=..4] at @s run summon lightning_bolt ~ ~ ~
-execute at @s as @e[tag=!Attacker,tag=!Attacked,distance=..4] at @s run tag @s add Attacked
+execute positioned ~ ~ ~ as @e[distance=..4,type=!#test:noattack,tag=!Attacker,tag=!Attacked] at @s run summon lightning_bolt ~ ~ ~
+execute positioned ~ ~ ~ as @e[distance=..4,type=!#test:noattack,tag=!Attacker,tag=!Attacked] at @s run tag @s add Attacked
