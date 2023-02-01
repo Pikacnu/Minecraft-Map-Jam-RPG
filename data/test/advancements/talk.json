@@ -1,0 +1,11 @@
+{
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:villager_trade",
+			"conditions": {}
+		}
+	},
+	"rewards": {
+		"function": "test:chat/talk"
+	}
+}
