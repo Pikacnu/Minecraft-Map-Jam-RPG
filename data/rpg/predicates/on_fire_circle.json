@@ -1,0 +1,18 @@
+[
+	{
+		"condition": "minecraft:entity_properties",
+		"entity": "this",
+		"predicate": {
+			"type": "minecraft:player",
+			"equipment": {
+				"mainhand": {
+					"items": [
+						"minecraft:carrot_on_a_stick"
+					],
+					"count": 1,
+					"nbt": "{fire_circle:1b}"
+				}
+			}
+		}
+	}
+]

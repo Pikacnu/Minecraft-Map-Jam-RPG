@@ -8,6 +8,7 @@ scoreboard objectives add mana-max dummy
 
 # skill mana setting
 scoreboard players set #lightning mana 200
+scoreboard players set #fire_circle mana 180
 
 
 # start loop
