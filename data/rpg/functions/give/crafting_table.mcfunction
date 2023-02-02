@@ -1,0 +1,1 @@
+function rpg:crafting_table/give

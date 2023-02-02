@@ -1,0 +1,1 @@
+title @s actionbar [{"text": "Mana: ","color": "aqua","bold": true},{"score":{"objective": "mana","name": "@s"}},{"text": " / "},{"score":{"objective": "mana-max","name": "@s"}}]
