@@ -4,4 +4,4 @@ scoreboard players set #raycast2 temp 20
 
 tp @e[type=marker,tag=lightning] ~ ~ ~ ~ ~
 
-execute as @e[type=marker,tag=lightning] at @s run function test:lightning/3-1
+execute as @e[type=marker,tag=lightning] at @s run function rpg:lightning/3-1

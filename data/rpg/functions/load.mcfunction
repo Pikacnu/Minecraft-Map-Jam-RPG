@@ -5,4 +5,4 @@ scoreboard objectives add mana dummy
 scoreboard objectives add mana-max dummy
 scoreboard players set #lightning mana 200
 
-schedule function test:tick 1t
+schedule function rpg:tick 1t

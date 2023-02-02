@@ -14,6 +14,6 @@
 		}
 	},
 	"rewards": {
-		"function": "test:crafttable/place"
+		"function": "rpg:crafttable/place"
 	}
 }

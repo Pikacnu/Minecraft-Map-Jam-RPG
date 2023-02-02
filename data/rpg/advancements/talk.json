@@ -6,6 +6,6 @@
 		}
 	},
 	"rewards": {
-		"function": "test:chat/talk"
+		"function": "rpg:chat/talk"
 	}
 }
