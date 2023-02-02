@@ -1,17 +1,27 @@
 [
 	{
-		"condition": "minecraft:entity_scores",
-		"entity": "this",
-		"scores": {
-			"mana": {
-				"min": 0,
-				"max": {
-					"type": "minecraft:score",
-					"target": "this",
-					"score": "mana-max",
-					"scale": 1
+		"condition": "minecraft:alternative",
+		"terms": [
+			{
+				"condition": "minecraft:entity_properties",
+				"entity": "this",
+				"predicate": {
+					"flags": {
+						"is_sneaking": true
+					}
+				}
+			},
+			{
+				"condition": "minecraft:entity_properties",
+				"entity": "this",
+				"predicate": {
+					"equipment": {
+						"mainhand": {
+							"nbt": "{RPG:1b}"
+						}
+					}
 				}
 			}
-		}
+		]
 	}
 ]
