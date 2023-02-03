@@ -29,5 +29,14 @@ For The Map Jam Datapack
 4個大魔力塊和2個火能量塊以及1個魔力木棒合成成火圈法杖
 ![image](https://user-images.githubusercontent.com/92923578/216678489-7e0c84dc-5e9c-4bf3-9dfe-08312d2e86de.png)
 
+9個大能量塊合成雷魔力塊
+![image](https://user-images.githubusercontent.com/92923578/216684779-cbab1f3d-97e1-46af-937a-84a53a60347c.png)
+
 4個大魔力塊和2個雷能量塊以及1個魔力木棒合成成雷電法杖
 ![image](https://user-images.githubusercontent.com/92923578/216678775-c9864f89-dddd-4304-8216-da405522aa83.png)
+
+# 其他注意事項
+
+玩家加入後會獲得勾爪
+請準備多點箭矢後再使用勾爪，每次使用勾爪將會消耗箭矢
+且勾爪不會讓玩家停留在終點若腳下無方塊將立即掉落
