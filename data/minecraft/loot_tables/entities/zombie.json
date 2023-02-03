@@ -80,11 +80,21 @@
         "entries": [
             {
                 "type": "minecraft:item",
-                "name": "minecraft:carrot_on_a_stick",
+                "name": "minecraft:prismarine_shard",
                 "functions": [
                     {
                         "function": "minecraft:set_nbt",
-                        "tag": "{mana: 1, RPG: 1b, Enchantments: [{}], HideFlags: 32, Unbreakable: 1b, CustomModelData: 3, RPG-Craft: 1b}"
+                        "tag": "{mana: 1, RPG: 1b, Enchantments: [{}], HideFlags: 32, Unbreakable: 1b, CustomModelData: 3, RPG-Craft: 1b,Small-Mana:1b}"
+                    },
+                    {
+                        "function": "minecraft:set_name",
+                        "entity": "this",
+                        "name": {
+                            "text": "魔力碎片",
+                            "color": "aqua",
+                            "bold": true,
+                            "italic": false
+                        }
                     }
                 ]
             }
@@ -92,9 +102,41 @@
         "conditions": [
             {
                 "condition": "minecraft:random_chance",
-                "chance": 1
+                "chance": 0.25
             }
         ]
-    }
+    },
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+          {
+              "type": "minecraft:item",
+              "name": "minecraft:prismarine",
+              "functions": [
+                  {
+                      "function": "minecraft:set_nbt",
+                      "tag": "{mana: 2, RPG: 1b, Enchantments: [{}], HideFlags: 32, Unbreakable: 1b, CustomModelData: 4, RPG-Craft: 1b,Mid-Mana:1b}"
+                  },
+                  {
+                      "function": "minecraft:set_name",
+                      "entity": "this",
+                      "name": {
+                          "text": "小魔力塊",
+                          "color": "aqua",
+                          "bold": true,
+                          "italic": false
+                      }
+                  }
+              ]
+          }
+      ],
+      "conditions": [
+          {
+              "condition": "minecraft:random_chance",
+              "chance": 0.02
+          }
+      ]
+  }
     ]
   }
