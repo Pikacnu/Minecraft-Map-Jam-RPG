@@ -15,4 +15,5 @@ function rpg:crafting_table/loop
 function rpg:hook/loop
 
 # skill system
-execute as @a at @s run function rpg:skill/loop
+execute as @a at @s run function rpg:skill/player_loop
+execute as @e[tag=RPG_skill] at @s run function rpg:skill/skill_loop
