@@ -1,8 +1,4 @@
 
 
-execute if predicate rpg:lightning run function rpg:skill/lightning/1
-execute if predicate rpg:on_fire_circle run function rpg:skill/fire_circle/on_hand
-execute if predicate rpg:fire_circle run function rpg:skill/fire_circle/1
-# execute if predicate rpg:fire_circle run function rpg:skill/fire_circle/1
-
-scoreboard players reset @s right_click
+execute if entity @s[tag=fire_circle_waiting] if score @s fire_circle_timer matches 1.. run function rpg:skill/fire_circle/waiting1
+execute if entity @s[tag=fire_circle_fire] if score @s fire_circle_timer matches 1.. run function rpg:skill/fire_circle/fire_loop
