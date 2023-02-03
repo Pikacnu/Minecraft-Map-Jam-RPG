@@ -1,11 +1,11 @@
 # Minecraft-Map-Jam-RPG
 For The Map Jam Datapack
 
-#Info
+# Info
 版本 : 23w05a
 遊玩人數 : 不限
 
-#遊戲方法
+# 遊戲方法
 
 1. 打殭屍或是骷髏獲得魔力碎片或小魔力塊
 2. 打烈焰神獲得火能量塊
@@ -13,12 +13,12 @@ For The Map Jam Datapack
 然後將九個魔力碎片和一個普通的工作檯丟到地板上合成自訂合成台
 而後所有和承接在自訂合成台內
 
-#合成方法
+# 合成方法
 
 在自訂合成台內放好對應物品
 然後在上方蹲下啟動合成
 
-#合成配方
+# 合成配方
 
 9個魔力碎片合成成一個小魔力塊
 ![image](https://user-images.githubusercontent.com/92923578/216677963-bdf5eff1-ca58-4ac6-8959-c22c7d1cc531.png)
