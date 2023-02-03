@@ -12,4 +12,8 @@ scoreboard players set #fire_circle mana 180
 
 
 # start loop
-schedule function rpg:tick 1t
+schedule clear rpg:tick
+function rpg:tick
+
+schedule clear rpg:crafting_table/keep_alive_loop 
+function rpg:crafting_table/keep_alive_loop
