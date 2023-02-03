@@ -1,4 +1,4 @@
-execute as @a[nbt={SelectedItem: {tag: {hook: 1b}, id: "minecraft:bow"}}] at @s if entity @e[distance=..5,type=arrow,tag=!Tested] positioned ~ ~1 ~ anchored eyes run function rpg:skill/hook/ride
+execute as @a[nbt={SelectedItem: {tag: {hook: 1b}, id: "minecraft:crossbow"}}] at @s if entity @e[distance=..5,type=arrow,tag=!Tested] positioned ~ ~1 ~ anchored eyes run function rpg:skill/hook/ride
 
 execute as @a[tag=rided] run function rpg:skill/hook/unride
 
