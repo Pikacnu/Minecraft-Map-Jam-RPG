@@ -12,7 +12,7 @@ function rpg:crafting_table/loop
 
 #hook
 
-function rpg:hook/loop
+function rpg:skill/hook/loop
 
 # skill system
 execute as @a at @s run function rpg:skill/player_loop
