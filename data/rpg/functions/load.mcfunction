@@ -14,9 +14,14 @@ scoreboard players set #fire_circle mana 180
 #skill cd setting
 scoreboard objectives add fire_circle_timer dummy
 
+#sneak
+
+scoreboard objectives add snack minecraft.custom:sneak_time
+scoreboard objectives add snack_temp dummy
+
 # start loop
 schedule clear rpg:tick
 function rpg:tick
 
-schedule clear rpg:crafting_table/keep_alive_loop 
+schedule clear rpg:crafting_table/keep_alive_loop
 function rpg:crafting_table/keep_alive_loop
