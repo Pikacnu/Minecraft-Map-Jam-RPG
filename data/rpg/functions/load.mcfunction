@@ -11,6 +11,8 @@ scoreboard objectives add mana-max dummy
 scoreboard players set #lightning mana 200
 scoreboard players set #fire_circle mana 180
 
+#skill cd setting
+scoreboard objectives add fire_circle_timer dummy
 
 # start loop
 schedule clear rpg:tick
