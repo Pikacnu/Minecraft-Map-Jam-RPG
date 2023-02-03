@@ -40,3 +40,6 @@ For The Map Jam Datapack
 玩家加入後會獲得勾爪
 請準備多點箭矢後再使用勾爪，每次使用勾爪將會消耗箭矢
 且勾爪不會讓玩家停留在終點若腳下無方塊將立即掉落
+
+點以下網址跳轉至下載頁面(注意不要下載到英文的檔案)
+https://github.com/Pikacnu/Minecraft-Map-Jam-RPG/releases/tag/releases-1.0
