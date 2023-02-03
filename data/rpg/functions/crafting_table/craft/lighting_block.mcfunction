@@ -1,0 +1,2 @@
+
+data modify block ~ ~ ~ Items set value [{Slot:4b, id: "minecraft:light_blue_stained_glass", Count: 1b, tag:{Lightning-Block: 1b, Enchantments: [{}], HideFlags: 32, display: {Name: '{"text": "雷能量塊","bold": true,"color": "aqua","italic": false}'}, RPG-Craft: 1b}}]

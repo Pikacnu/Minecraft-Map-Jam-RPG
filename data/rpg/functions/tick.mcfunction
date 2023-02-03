@@ -9,6 +9,7 @@ execute as @a at @s run function rpg:player/loop
 
 # custom crafting table system
 function rpg:crafting_table/loop
+function rpg:crafting_table/cct
 
 #hook
 
