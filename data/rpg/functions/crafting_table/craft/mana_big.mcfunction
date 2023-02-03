@@ -1,0 +1,2 @@
+
+data modify block ~ ~ ~ Items set value [{Slot:4b, id: "minecraft:prismarine_bricks", Count: 1b, tag:{mana: 3, Enchantments: [{}], HideFlags: 32, Unbreakable: 1b, display: {Name: '{"bold":true,"italic":false,"color":"aqua","text":"大魔力塊"}'}, CustomModelData: 5, RPG-Craft: 1b,Big-Mana:1b}}]

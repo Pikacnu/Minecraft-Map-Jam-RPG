@@ -1,0 +1,2 @@
+
+execute if data block ~ ~ ~ {Items: [{Slot: 0b, tag: {Mid-Mana: 1b, RPG-Craft: 1b}}, {Slot: 1b, tag: {Mid-Mana: 1b, RPG-Craft: 1b}}, {Slot: 2b, tag: {Mid-Mana: 1b, RPG-Craft: 1b}}, {Slot: 3b, tag: {Mid-Mana: 1b, RPG-Craft: 1b}}, {Slot: 4b, tag: {Mid-Mana: 1b, RPG-Craft: 1b}}, {Slot: 5b, tag: {Mid-Mana: 1b, RPG-Craft: 1b}}, {Slot: 6b, tag: {Mid-Mana: 1b, RPG-Craft: 1b}}, {Slot: 7b, tag: {Mid-Mana: 1b, RPG-Craft: 1b}}, {Slot: 8b, tag: {Mid-Mana: 1b, RPG-Craft: 1b}}]} run scoreboard players set #craft_id temp 2
