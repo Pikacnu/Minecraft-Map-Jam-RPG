@@ -1,1 +1,1 @@
-give @s carrot_on_a_stick{mana: 1, RPG: 1b, Enchantments: [{}], HideFlags: 32, Unbreakable: 1b, display: {Name: '{"text": "魔力碎片","bold": true,"color": "aqua","italic": false}'}, CustomModelData: 3}
+give @s carrot_on_a_stick{mana: 1, RPG: 1b, Enchantments: [{}], HideFlags: 32, Unbreakable: 1b, display: {Name: '{"text": "魔力碎片","bold": true,"color": "aqua","italic": false}'}, CustomModelData: 3, RPG-Craft: 1b}

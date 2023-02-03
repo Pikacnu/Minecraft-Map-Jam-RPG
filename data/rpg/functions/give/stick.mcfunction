@@ -1,0 +1,1 @@
+give @s stick{Enchantments: [{}], HideFlags: 32, display: {Name: '{"text": "火能量塊","bold": true,"color": "#433313","italic": false}'}, RPG-Craft: 1b}

@@ -1,0 +1,1 @@
+give @s magma_block{Enchantments: [{}], HideFlags: 32, display: {Name: '{"text": "火能量塊","bold": true,"color": "#F08D3C","italic": false}'}, RPG-Craft: 1b}

@@ -1,0 +1,1 @@
+give @s light_blue_stained_glass{Enchantments: [{}], HideFlags: 32, display: {Name: '{"text": "雷能量塊","bold": true,"color": "aqua","italic": false}'}, RPG-Craft: 1b}
