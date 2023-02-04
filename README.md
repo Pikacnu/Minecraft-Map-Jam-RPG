@@ -1,5 +1,5 @@
 # Minecraft-Map-Jam-RPG
-收音機第三屆指令大賽參賽資料包
+收音機第三屆指令大賽參賽作品(資料包+材質包)
 
 # Info
 - 版本 : 23w05a (1.20)
@@ -33,24 +33,25 @@
 以下的所有配方都在魔法工作臺內完成
 
 # 合成配方
+**注意 : 不要堆疊合成，暫無支援**
 
-9個魔力碎片合成成一個小魔力塊
+- 9個魔力碎片合成成1個小魔力塊
 
 ![image](https://user-images.githubusercontent.com/92923578/216677963-bdf5eff1-ca58-4ac6-8959-c22c7d1cc531.png)
 
-9個小魔力塊合成成大魔力塊
+- 9個小魔力塊合成成1個大魔力塊
 
 ![image](https://user-images.githubusercontent.com/92923578/216678276-4c8060a7-7973-4cd0-95b4-b1d8501acd14.png)
 
-9個大能量塊合成雷魔力塊
+- 9個大能量塊合成成1個雷魔力塊
 
 ![image](https://user-images.githubusercontent.com/92923578/216684779-cbab1f3d-97e1-46af-937a-84a53a60347c.png)
 
-4個大魔力塊和2個雷能量塊以及1個魔力木棒合成成雷電法杖
+- 4個大魔力塊、2個雷能量塊以及1個魔力木棒合成成1隻雷電法杖
 
 ![image](https://user-images.githubusercontent.com/92923578/216678775-c9864f89-dddd-4304-8216-da405522aa83.png)
 
-4個大魔力塊和2個火能量塊以及1個魔力木棒合成成火圈法杖
+- 4個大魔力塊、2個火能量塊以及1個魔力木棒合成成1隻火焰法杖
 
 ![image](https://user-images.githubusercontent.com/92923578/216678489-7e0c84dc-5e9c-4bf3-9dfe-08312d2e86de.png)
 
