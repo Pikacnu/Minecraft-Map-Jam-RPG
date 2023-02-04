@@ -60,12 +60,18 @@
 請準備多點箭矢後再使用鉤爪，每次使用鉤爪將會消耗箭矢，
 且鉤爪不會讓玩家停留在終點若腳下無方塊將立即掉落
 
-點以下網址跳轉至下載頁面(注意不要下載到英文的檔案)
+# 下載
+
+點以下網址跳轉至下載頁面(注意不要下載到原始檔)
+
+https://github.com/Pikacnu/Minecraft-Map-Jam-RPG/releases/tag/releases-1.0
+
+![image](https://user-images.githubusercontent.com/76525576/216748778-32f2f74c-1ccc-4d14-bc04-38717872e57d.png)
+
+下載紅框內的兩個檔案即可
 
 注意 : 本作品有使用材質包，請務必要安裝
 
 由於先行版並未有pack_format，因此可能會顯示不相容，正常安裝即可
 
 ![image](https://user-images.githubusercontent.com/76525576/216748606-48e52164-bd4d-433c-8e5d-573441e5fa6f.png)
-
-https://github.com/Pikacnu/Minecraft-Map-Jam-RPG/releases/tag/releases-1.0
