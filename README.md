@@ -43,7 +43,7 @@
 
 ![image](https://user-images.githubusercontent.com/92923578/216678276-4c8060a7-7973-4cd0-95b4-b1d8501acd14.png)
 
-- 9個大能量塊合成成1個雷魔力塊
+- 9個大魔力塊合成成1個雷魔力塊
 
 ![image](https://user-images.githubusercontent.com/92923578/216684779-cbab1f3d-97e1-46af-937a-84a53a60347c.png)
 
