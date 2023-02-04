@@ -64,4 +64,8 @@
 
 注意 : 本作品有使用材質包，請務必要安裝
 
+由於先行版並未有pack_format，因此可能會顯示不相容，正常安裝即可
+
+![image](https://user-images.githubusercontent.com/76525576/216748606-48e52164-bd4d-433c-8e5d-573441e5fa6f.png)
+
 https://github.com/Pikacnu/Minecraft-Map-Jam-RPG/releases/tag/releases-1.0
