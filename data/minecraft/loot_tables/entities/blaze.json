@@ -45,7 +45,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{Enchantments: [{}], HideFlags: 32, display: {Name: '{\"text\": \"火能量塊\",\"bold\": true,\"color\": \"#F08D3C\",\"italic\": false}'}, RPG-Craft: 1b}"
+							"tag": "{Enchantments: [{}], HideFlags: 32,Fire-Mana-Block:1b, display: {Name: '{\"text\": \"火能量塊\",\"bold\": true,\"color\": \"#F08D3C\",\"italic\": false}'}, RPG-Craft: 1b}"
 						},
 						{
 							"function": "minecraft:set_name",

@@ -189,36 +189,36 @@
       "rolls": 1.0
     },
     {
-			"rolls": 1,
-			"bonus_rolls": 0,
-			"entries": [
-				{
-					"type": "minecraft:item",
-					"name": "minecraft:stick",
-					"functions": [
-						{
-							"function": "minecraft:set_nbt",
-							"tag": "{Enchantments: [{}], HideFlags: 32, RPG-Craft: 1b}"
-						},
-						{
-							"function": "minecraft:set_name",
-							"entity": "this",
-							"name": {
-								"text": "魔力木棒",
-								"color": "#433313",
-								"bold": true,
-								"italic": false
-							}
-						}
-					]
-				}
-			],
-			"conditions": [
-				{
-					"condition": "minecraft:random_chance",
-					"chance": 0.01
-				}
-			]
-		}
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:stick",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Enchantments: [{}], HideFlags: 32, RPG-Craft: 1b,Stick:1b}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "entity": "this",
+              "name": {
+                "text": "魔力木棒",
+                "color": "#433313",
+                "bold": true,
+                "italic": false
+              }
+            }
+          ]
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.01
+        }
+      ]
+    }
   ]
 }
